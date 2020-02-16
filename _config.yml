@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+title: "Piano Transcription"
+description: "This app transcribes audio/video to MIDI and then 3D-piano plays it, and can optionally advise finger numbers"
+logo: https://raw.GitHubUserContent.com/BShakhovsky/BShakhovsky.GitHub.io/master/Icon.png
+google_analytics: UA-154921770-1
+
+include: .well-known
