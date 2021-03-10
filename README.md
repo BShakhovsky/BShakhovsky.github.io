@@ -8,11 +8,11 @@
 
 [![](Android.png 'Android 8.0')](https://GitHub.com/BShakhovsky/PianoTranscription_Android/blob/master/README.md)
 
-## Or get it on Google Play:
+### Or get it on Google Play:
 
 [![](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png 'Get it on Google Play')](https://play.google.com/store/apps/details?id=ru.BShakhovsky.Piano_Transcription)
 
-## Privacy Policy
+### Privacy Policy
 
 If you want to record audio using my app, you will have to grant permission to use microphone:
 
