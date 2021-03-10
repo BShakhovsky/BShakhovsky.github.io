@@ -1,13 +1,21 @@
-# For Windows 7 or later click on the following screenshot:
+# Android/Windows App
 
-[![](https://GitHub.com/BShakhovsky/PianoTranscription3D/raw/master/Keyboard.png 'Windows 7')](https://GitHub.com/BShakhovsky/PianoTranscription3D/blob/master/README.md)
+## For Windows 7 or later click on the following screenshot:
 
-# For Android 6.0 (API level 23) or higher:
+[![](https://GitHub.com/BShakhovsky/PianoTranscription3D/raw/master/Keyboard.png 'Windows 7')](https://GitHub.com/BShakhovsky/PianoTranscription_Windows/blob/master/README.md)
 
-Not ready yet, development is in process.
+## For Android 8.0 (API level 26) or higher click on the following screenshot:
 
-[Privacy Policy](https://BShakhovsky.GitHub.io/PrivacyPolicy)
+[![](Android.png 'Android 8.0')](https://GitHub.com/BShakhovsky/PianoTranscription_Android/blob/master/README.md)
 
-[![](Main.png 'Main Activity')](https://BShakhovsky.GitHub.io/PrivacyPolicy)
-[![](Menu.png 'Attach new audio')](https://BShakhovsky.GitHub.io/PrivacyPolicy)
-[![](Tracks&Midi.png 'Select tracks & MIDI-file info')](https://BShakhovsky.GitHub.io/PrivacyPolicy)
+## Or get it on Google Play:
+
+[![](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png 'Get it on Google Play')](https://play.google.com/store/apps/details?id=ru.BShakhovsky.Piano_Transcription)
+
+## Privacy Policy
+
+If you want to record audio using my app, you will have to grant permission to use microphone:
+
+* __*Microphone permission (android.permission.RECORD_AUDIO)*__
+
+For complete __*Privacy Policy*__ see [Privacy Policy](https://BShakhovsky.GitHub.io/PrivacyPolicy)
