@@ -6,9 +6,9 @@
 
 Windows version can optionally advise which fingers to use to press each piano key, accuracy of finger numbers is around 75%.
 
-## For Android 8.0 (API level 26) or higher click on the following screenshot:
+## For Android 4.4 KitKat (API level 19) or higher click on the following screenshot:
 
-[![](Android.png 'Android 8.0')](https://GitHub.com/BShakhovsky/PianoTranscription_Android/blob/master/README.md)
+[![](Android.png 'Android')](https://GitHub.com/BShakhovsky/PianoTranscription_Android/blob/master/README.md)
 
 ### Or get it on Google Play:
 
