@@ -3,7 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "ru.BShakhovsky.Piano_Transcription",
-    "sha256_cert_fingerprints":
-    ["B3:E8:F7:00:70:A9:94:DC:E0:7E:E6:D6:ED:35:FD:75:85:30:A2:E1:45:A2:C7:2F:14:48:4F:2A:FE:F9:D1:A8"]
+    "sha256_cert_fingerprints": [
+      "B3:E8:F7:00:70:A9:94:DC:E0:7E:E6:D6:ED:35:FD:75:85:30:A2:E1:45:A2:C7:2F:14:48:4F:2A:FE:F9:D1:A8",
+      "EA:C0:8F:82:E0:4A:21:75:7F:F6:71:58:6E:3F:DC:AC:2C:57:8E:B3:C3:3B:EC:F4:FA:19:A9:8A:9E:68:FD:51"
+    ]
   }
 }]
